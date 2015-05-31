@@ -8,10 +8,10 @@ import json
 from HTMLParser import HTMLParser
 import csv
 
-ckey = 'xHPB5wMHmxP5KNzV2brbdfCp6' #private
-csecret = 'F7qCZ5Vrm0mzZs5IERziZAcRLygV5vqolGlhWkdGZswjGeghbA'
-atoken = '185044419-nu83wmFcwdrZHwqhZDrIWMSeprJhsyHC82Ao2vJQ'
-asecret = '368hMVnP7AnNVnvsfHyuCQNxSjnZgYKvu3HAk37WLc875'
+ckey = 'xxxxx' #private
+csecret = 'xxxxx'
+atoken = 'xxxxx'
+asecret = 'xxxxx'
 
 
 
